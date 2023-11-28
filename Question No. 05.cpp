@@ -26,5 +26,6 @@ for(int i=a.length();i>=0;i--)
 {b[i]=a[i] ;
 cout<<b[i];}
 }
+return 0;	
 	
 }
